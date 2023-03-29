@@ -1,3 +1,10 @@
+# Decky Timer
+Still under heavy development.
+Currently trying to understand how these plugins work.
+The idea of this plugin is simple - a timer on Steam Deck.
+That's it. Nothing fancy.
+Just a couple of number boxes and a "Start" button
+
 # React-Frontend Plugin Template [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://deckbrew.xyz/discord)
 
 Reference example for using [decky-frontend-lib](https://github.com/SteamDeckHomebrew/decky-frontend-lib) in a [decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) plugin.
